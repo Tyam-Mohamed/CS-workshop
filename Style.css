@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+    width: 5cm;
+    height: 5cm;
+    aspect-ratio: 2;
+    
+}
+p{font-family: Georgia, 'Times New Roman', Times, serif;}
+p{font-size: 20px;}
